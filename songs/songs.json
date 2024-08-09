@@ -1,0 +1,81 @@
+{
+    "playlist": [
+      {
+        "playlistName": "Weekend Vibes",
+        "description": "A mix of chill and upbeat tracks to vibe with over the weekend.",
+        "image":"playlistimgs/weekend.jpg",
+        "songs": [
+          {
+            "artist": "Artemas",
+            "songName": "i like the way you kiss me",
+            "path": "songs/Artemas - i like the way you kiss me (official music video).mp3"
+          },
+          {
+            "artist": "Edward Maya & Vika Jigulina",
+            "songName": "Stereo Love",
+            "path": "songs/Edward Maya & Vika Jigulina - Stereo Love (Official Music Video).mp3"
+          },
+          {
+            "artist": "Gracie Abrams",
+            "songName": "Close To You",
+            "path": "songs/Gracie Abrams - Close To You (Official Visual).mp3"
+          },
+          {
+            "artist": "Lana Del Rey",
+            "songName": "Diet Mountain Dew Demo Lyrics",
+            "path": "songs/lana del rey - diet mountain dew demo lyrics.mp3"
+          },
+          {
+            "artist": "Manu Chao",
+            "songName": "Me Gustas Tu",
+            "path": "songs/Manu Chao - Me Gustas Tu (Official Audio).mp3"
+          }
+        ]
+      },
+      {
+        "playlistName": "Qawalis",
+        "description": "Best qawalis to get you in mood.",
+        "image":"playlistimgs/qawali.jpg",
+        "songs": [
+          {
+            "artist": "Nusrat Fateh Ali Khan",
+            "songName": "Kali Kali Zulfon Ke Phande Na",
+            "path": "songs/Kali Kali Zulfon Ke Phande Na  Nusrat Fateh Ali Khan  complete full version  OSA Worldwide.mp3"
+          },
+          {
+            "artist": "Queen",
+            "songName": "Don't Stop Me Now",
+            "path": "songs/Queen - Don't Stop Me Now.mp3"
+          },
+          {
+            "artist": "The Weeknd",
+            "songName": "Blinding Lights",
+            "path": "songs/The Weeknd - Blinding Lights.mp3"
+          }
+        ]
+      },
+      {
+        "playlistName": "Balochi",
+        "description": "Best Balochi songs in the market.",
+        "image":"playlistimgs/balochi.jpg",
+        "songs": [
+          {
+            "artist": "Kaifi Khalil x Eva B x Abdul Wahab",
+            "songName": "Kana Yaari",
+            "path": "songs/Coke Studio  Season 14  Kana Yaari  Kaifi Khalil x Eva B x Abdul Wahab Bugti.mp3"
+          },
+          {
+            "artist": "Akhtar Chanal Zahri & Komal Rizvi",
+            "songName": "Daanah Pah Daanah",
+            "path": "songs/Daanah Pah Daanah  Akhtar Chanal Zahri & Komal Rizvi  Season 4  Coke Studio Pakistan.mp3"
+          },
+          {
+            "artist": "Female Version",
+            "songName": "Kamo Kamo Habar",
+            "path": "songs/Kamo Kamo Habar - Female Version (Mana Dunya Gushee).mp3"
+          }
+        ]
+      }
+    ]
+  }
+  

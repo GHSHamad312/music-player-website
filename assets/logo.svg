@@ -1,0 +1,11 @@
+<svg width="300" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="300" height="100" fill="rgb(29 ,29,29)" rx="15" ry="15"/>
+  
+  <!-- Play Button -->
+  <circle cx="50" cy="50" r="35" fill="#ffffff" />
+  <polygon points="40,30 70,50 40,70" fill="#ff7e5f"/>
+  
+  <!-- Text -->
+  <text x="90" y="60" fill="#ffffff" font-family="Verdana" font-size="28" font-weight="bold">Music Player</text>
+</svg>
