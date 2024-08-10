@@ -243,6 +243,7 @@ main {
     display: flex;
     gap: 15px;
     padding: 20px 40px;
+    margin-bottom: 210px;
 
 }
 
@@ -450,7 +451,7 @@ input[type="range"]::-webkit-slider-thumb {
         border-radius: 50%;
         position: absolute;
         left: 20px;
-        top: 25px;
+        top: 20px;
         transition: 300ms;
     }
 
@@ -515,6 +516,7 @@ input[type="range"]::-webkit-slider-thumb {
 @media (max-width: 600px) {
     .leftside {
         width: 99vw;
+        z-index: 10000;
     }
     .card{
     height: auto;
