@@ -86,6 +86,7 @@ function createPlaylistCards() {
                 <div class="pimg"><img src="${playlists[i].image}" alt=""></div>
                 <div class="ptitle">${playlists[i].playlistName}</div>
                 <div class="pdescription">${playlists[i].description}</div>
+                  <div class="playplaylist"><img src="assets/play2.svg" alt=""></div>
             </div>`;
     }
 }
@@ -149,6 +150,7 @@ async function init() {
             if (playlistIndex >= 0 && playlistIndex < playlists.length) {
                 updateSongsList(playlistIndex);
                 createSongCards(); // Create song cards after updating song list
+                playSong(0);
             } else {
                 console.error('Invalid playlist index:', playlistIndex);
             }

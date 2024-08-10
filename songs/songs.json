@@ -43,14 +43,19 @@
             "path": "songs/Kali Kali Zulfon Ke Phande Na  Nusrat Fateh Ali Khan  complete full version  OSA Worldwide.mp3"
           },
           {
-            "artist": "Queen",
-            "songName": "Don't Stop Me Now",
-            "path": "songs/Queen - Don't Stop Me Now.mp3"
+            "artist": "Nusrat & Rahat Fateh Ali Khan",
+            "songName": "Mere Rashke Qamar",
+            "path": "songs/Mere Rashke Qamar Song With Lyrics  Baadshaho  Ajay Devgn, Ileana, Nusrat & Rahat Fateh Ali Khan.mp3"
           },
           {
-            "artist": "The Weeknd",
-            "songName": "Blinding Lights",
-            "path": "songs/The Weeknd - Blinding Lights.mp3"
+            "artist": "Nusrat Fateh Ali Khan",
+            "songName": "Sochta Hoon",
+            "path": "songs/Sochta Hoon dekhte dekhte. Ustad Nusrat Fateh Ali Khan. NFAK.mp3"
+          },
+          {
+            "artist": "Nusrat Fateh Ali Khan",
+            "songName": "Ye Jo Halka Halka",
+            "path": "songs/Ye Jo Halka Halka Original Song by Nusrat Fateh Ali Khan - Full Song with Lyrics Romantic Qawwali.mp3"
           }
         ]
       },
@@ -73,6 +78,11 @@
             "artist": "Female Version",
             "songName": "Kamo Kamo Habar",
             "path": "songs/Kamo Kamo Habar - Female Version (Mana Dunya Gushee).mp3"
+          },
+          {
+            "artist": "Baramsh Baloch  Naveed Mengal",
+            "songName": "Nazna",
+            "path": "songs/Nazna  Season 2  Episode 4  ft. Baramsh Baloch  Naveed Mengal  Obaid Sahar  Shahsumal Baloch.mp3"
           }
         ]
       }
