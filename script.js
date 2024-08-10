@@ -15,6 +15,7 @@ let volumeLabel = document.querySelector("label");
 let volumeIcon = document.querySelector(".volume img");
 let volumeSlider = document.querySelector("#vol");
 let playlistContainer = document.querySelector(".playlist");
+let statusbar = document.querySelector(".status");
 
 // State Variables
 let isPlaying = false;
@@ -193,6 +194,9 @@ async function init() {
     closeButton.addEventListener("click", () => {
         sidebar.style.transform = "translateX(-600px)";
     });
+    statusbar.addEventListener("click" , (event)=>{
+        // percent=
+    })
 }
 
 // Initialize
