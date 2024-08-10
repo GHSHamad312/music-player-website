@@ -195,7 +195,9 @@ async function init() {
         sidebar.style.transform = "translateX(-600px)";
     });
     statusbar.addEventListener("click" , (event)=>{
-        // percent=
+        let position= (event.offsetX/event.target.getBoundingClientRect().width)*100;
+        progressTracker.style.left = `${position}%`;
+        audioPlayer.currentTime=(position/100)*audioPlayer.duration
     })
 }
 
