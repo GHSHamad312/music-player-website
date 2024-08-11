@@ -23,6 +23,7 @@ body {
     color: white;
     text-wrap: nowrap;
     font-family: "Poppins", sans-serif;
+    overflow-y: hidden;
 }
 
 main {

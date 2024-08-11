@@ -151,6 +151,7 @@ async function init() {
                 updateSongsList(playlistIndex);
                 createSongCards(); // Create song cards after updating song list
                 playSong(0);
+                playPauseIcon.src = `assets/pause-svgrepo-com.svg`;
             } else {
                 console.error('Invalid playlist index:', playlistIndex);
             }
