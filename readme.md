@@ -27,10 +27,6 @@
 
 <br />
 
-<div align="center">
-  <img src="path/to/your/desktop-screenshot.png" alt="Music Player Desktop View" width="100%">
-</div>
-
 ---
 
 ## 🚀 Overview
