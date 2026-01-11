@@ -81,12 +81,6 @@ Contributions are welcome! If you'd like to improve the UI or add features (like
 
 ---
 
-## 📧 Contact
-
-Your Name - [@YourTwitter](https://twitter.com/your_username)
-
-Project Link: [https://github.com/GHSHamad312/music-player-website](https://github.com/GHSHamad312/music-player-website)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
