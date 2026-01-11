@@ -44,18 +44,6 @@ This **Responsive Music Player** is designed to offer a seamless listening exper
 
 ---
 
-## 📸 Interface Gallery
-
-Since this is a responsive project, here is how it looks across devices:
-
-| **Desktop Mode** | **Mobile Mode** |
-|:---:|:---:|
-| <img src="path/to/desktop-view.png" width="500" alt="Desktop UI"> | <img src="path/to/mobile-view.png" width="250" alt="Mobile UI"> |
-| *Full expansive view with playlist* | *Compact, thumb-friendly controls* |
-
-*(Note: Replace the image paths above with actual screenshots of your player)*
-
----
 
 ## 🛠️ Technologies Used
 
